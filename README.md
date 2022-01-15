@@ -3,6 +3,9 @@
     <img src="https://discord.c99.nl/widget/theme-4/824011412242301009.png"/>
      </a>
 </p>
+<p align="center">
+  <tr>
+    <td align="center"
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
