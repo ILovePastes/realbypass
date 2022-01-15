@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/alcatraz322/">
-    <img src="https://discord.c99.nl/widget/theme-5/824011412242301009.png"/>
+    <img src="https://discord.c99.nl/widget/theme-4/824011412242301009.png"/>
      </a>
 </p>
 
