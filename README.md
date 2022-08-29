@@ -1,4 +1,3 @@
-<p align="center">
   ###                                    Hello ! I'm ExodusNgrok , Welcome to my profile!.
 <p align="center">
 # ✨Donate So i can buy Coffee✨
