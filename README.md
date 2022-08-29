@@ -16,6 +16,11 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <p align="center">
+  # ✨Donate So i can buy Coffee✨
+### BTC - bc1qfec89dgm6z697825lup9urfat9akcxy4su2ykn
+### TH - 0x415F467C2229C876e6C4c2169Cbfe7Ed8d4D4cf0
+### LTC - LNamRgHUDSYnixLKWZbFAruMM3mk82Bk11
+
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img src="https://github-readme-stats.vercel.app/api/?username=ExodusNgrok&title_color=6304d1&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=6304d1&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
@@ -29,7 +34,3 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-# ✨Donate So i can buy Coffee✨
-### BTC - bc1qfec89dgm6z697825lup9urfat9akcxy4su2ykn
-### TH - 0x415F467C2229C876e6C4c2169Cbfe7Ed8d4D4cf0
-### LTC - LNamRgHUDSYnixLKWZbFAruMM3mk82Bk11
