@@ -1,6 +1,6 @@
 ### Hello ! I'm Synergy , Security researcher and reverse engineer; mostly interested in Cyber Security and programming.
 <p align="center">
-  <a href="https://github.com/SynergyMenu/">
+  <a href="https://github.com/ExodusNgrok/">
     <img src="https://discord.c99.nl/widget/theme-4/824011412242301009.png"/>
      </a>
 </p>
@@ -18,10 +18,10 @@
 <p align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api/?username=SynergyMenu&title_color=6304d1&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=6304d1&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
+      <img src="https://github-readme-stats.vercel.app/api/?username=ExodusNgrok&title_color=6304d1&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=6304d1&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
     </td>
         <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SynergyMenu&title_color=6304d1&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=6304d1&hide_title=true&count_private=true&enable_animations=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExodusNgrok&title_color=6304d1&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=6304d1&hide_title=true&count_private=true&enable_animations=true" />
     </td>
   </tr>
 </p>
