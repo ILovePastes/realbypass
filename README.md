@@ -6,7 +6,7 @@
 <p align="center">
 
   <a href="https://github.com/ExodusNgrok/">
-    <img src="https://discord.c99.nl/widget/theme-4/824011412242301009.png"/>
+    <img src="https://discord.c99.nl/widget/theme-4/345455650936979458.png"/>
      </a>
 </p>
 <p align="center">
