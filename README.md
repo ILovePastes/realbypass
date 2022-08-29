@@ -1,4 +1,4 @@
-### Hello ! I'm Synergy , Security researcher and reverse engineer; mostly interested in Cyber Security and programming.
+### Hello ! I'm ExodusNgrok , Welcome to my profile!.
 <p align="center">
   <a href="https://github.com/ExodusNgrok/">
     <img src="https://discord.c99.nl/widget/theme-4/824011412242301009.png"/>
