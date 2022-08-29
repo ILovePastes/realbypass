@@ -1,8 +1,7 @@
-  ###                                    Hello ! I'm ExodusNgrok , Welcome to my profile!.
-<p align="center">
+  ### Hello ! I'm ExodusNgrok , Welcome to my profile!.
 # ✨Donate So i can buy Coffee✨
 ### BTC - bc1qfec89dgm6z697825lup9urfat9akcxy4su2ykn
-### TH - 0x415F467C2229C876e6C4c2169Cbfe7Ed8d4D4cf0
+### ETH - 0x415F467C2229C876e6C4c2169Cbfe7Ed8d4D4cf0
 ### LTC - LNamRgHUDSYnixLKWZbFAruMM3mk82Bk11
 <p align="center">
 
