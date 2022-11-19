@@ -6,11 +6,6 @@
 ### ETH - 0x081022A9B8E7d267a357Fc423cf911Aa4B112ec1
 ### LTC - LSn8CpYwWG3FyCTPyg7fPD7BDv4SVdsMqw
 <p align="center">
-    <a href="discord://-/users/1007660409303613521">
-        <img src="https://lanyard-profile-readme.vercel.app/api/1007660409303613521?bg=0d1117&borderRadius=0"/>
-    </a>
-</p>
-<p align="center">
   <tr>
     <td align="center"
   <div style="display: inline_block"><br>
