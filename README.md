@@ -1,8 +1,8 @@
   ### Hello ! I'm ExodusNgrok , Welcome to my profile!.
 # ✨Donate So i can buy Coffee✨
-### BTC - bc1qfec89dgm6z697825lup9urfat9akcxy4su2ykn
-### ETH - 0x415F467C2229C876e6C4c2169Cbfe7Ed8d4D4cf0
-### LTC - LNamRgHUDSYnixLKWZbFAruMM3mk82Bk11
+### BTC - bc1qmjw2x76tydj7z0ygl38mfek8fkm9gmdqmz5jrr
+### ETH - 0x081022A9B8E7d267a357Fc423cf911Aa4B112ec1
+### LTC - LSn8CpYwWG3FyCTPyg7fPD7BDv4SVdsMqw
 <p align="center">
 
   <a href="https://github.com/ExodusNgrok/">
